@@ -1,4 +1,4 @@
-![RESUM](https://github.com/user-attachments/assets/a09d12d0-a9ba-4f91-afbd-b5e9e0e05d56)
+![RESUM](https://github.com/user-attachments/assets/42c0a371-1336-4e31-85cf-f70b0400b2fc)
 
 <h1 align="center">💻 AI RESUME ANALYZER 💻</h1>
 
@@ -112,63 +112,65 @@ Once set up:
 
 **Main Screen**
 
-![1-main-screen png](https://github.com/user-attachments/assets/b45eef02-6122-4f1b-9e3b-e4e15d34f104)
+![1-main-screen png](https://github.com/user-attachments/assets/8f981604-7d95-4269-9919-3cbf33683732)
 
 **Resume Analysis**
 
-![2-analysis](https://github.com/user-attachments/assets/d946f652-1aad-48bb-ade4-493e1d4007bf)
+![2-analysis](https://github.com/user-attachments/assets/e20334d0-b53b-470f-b394-4df6ddd7f142)
 
 **Skill Recommendation**
 
-![3-recom](https://github.com/user-attachments/assets/a1b8dd67-4744-43af-8ccd-4af1a2d5c2c8)
+![3-recom](https://github.com/user-attachments/assets/e735a774-8478-4357-9806-3f176f88b94d)
 
 **Course and Virtual Internship Recommendation**
 
-![4-recom](https://github.com/user-attachments/assets/0a633f92-3abf-4529-9c33-8948e3b7eb34)
+![4-recom](https://github.com/user-attachments/assets/d6830f85-d496-4a8a-9211-e068542ae983)
 
 **Tips and Overall Score**
 
-![5-tipsscore](https://github.com/user-attachments/assets/0c67fe4e-4a83-46ae-b3fa-5efe4efac0d4)
+![5-tipsscore](https://github.com/user-attachments/assets/c93f0ca4-6202-4155-86c0-d16e6c96eec5)
 
 **Video Recommendation**
 
-![6-recom](https://github.com/user-attachments/assets/fff0c7b7-c942-45b0-8404-b1b405a9a592)
+![6-recom](https://github.com/user-attachments/assets/610f2ca6-74f6-4902-a8c7-4b8699ffacd2)
 
 ## Feedback
 
 **Feedback Form**
 
-![1-form](https://github.com/user-attachments/assets/8e00f820-4c4e-4734-be70-e646645bdfbf)
+![1-form](https://github.com/user-attachments/assets/a40e1156-9019-496f-9b5a-e32076bebd1b)
 
 **Overall Rating Analysis and Comment History**
 
-![2-analytics](https://github.com/user-attachments/assets/0fc1b796-e2d2-462d-bb65-02a862d02d60)
+![2-analytics](https://github.com/user-attachments/assets/df4d5b91-ab7b-4ddb-b5d9-5aafba36ba28)
+
 
 ## Admin
 
 **Login**
 
-![1-main-screen](https://github.com/user-attachments/assets/e6c85386-37e5-4179-a801-46c194e06d16)
+![1-main-screen](https://github.com/user-attachments/assets/e47578e2-fbbd-4176-8cc7-fe4c3fd2d4df)
 
 **User Count and it's data**
 
-![2-user-data](https://github.com/user-attachments/assets/59ce00a6-5d98-4280-9f01-be5ade996c87)
+![2-user-data](https://github.com/user-attachments/assets/fdf1bb91-8a86-463c-a3c8-21f9eed6bd52)
 
 **Exported csv file**
 
-![3-user-datacsv](https://github.com/user-attachments/assets/b3ed7f0e-7ba4-4b73-a7fa-577cf89258d5)
+![3-user-datacsv](https://github.com/user-attachments/assets/abbd0813-e0a3-4d4c-b5f5-89bf7830d0ae)
 
 **Feedback Data**
 
-![4-feed-data](https://github.com/user-attachments/assets/5035b570-4671-4a5b-8d69-72dd146b512b)
+![4-feed-data](https://github.com/user-attachments/assets/2cbc9fb4-3659-4814-93d2-02b0dd7a606e)
 
 **Pie Chart Analytical Representation of clusters**
 
-![5-pieexp](https://github.com/user-attachments/assets/79b72334-31e3-4a8f-9390-7f18a077b737)
+![5-pieexp](https://github.com/user-attachments/assets/bcfc6989-f6dd-4603-ad5b-547aec2e889c)
 
-![6-piescre jpg](https://github.com/user-attachments/assets/1369d598-ca07-4b23-9151-581460ac0e41)
+![6-piescre jpg](https://github.com/user-attachments/assets/b64eef2a-55c5-4426-bfdc-257f83a4a77a)
 
-![7-pielocation](https://github.com/user-attachments/assets/6fdb2dae-733d-4668-bb6e-46ac6e6e8437)
+![7-pielocation](https://github.com/user-attachments/assets/e765ef3d-8825-4adc-84df-71f5a60fdd97)
+
 
 
 
