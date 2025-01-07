@@ -55,7 +55,7 @@ Follow these steps to get the project up and running:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/GauravGhandat-23/AI-Resume-Analyzer.git
+   git clone https://github.com/GauravGhandat-23/Artificial-Intelligence-Resume-Analyzer.git
 
 2. **Create and activate a virtual environment:**
    ```bash
